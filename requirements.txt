@@ -1,0 +1,10 @@
+# Install a PyTorch build compatible with your CUDA runtime first if needed.
+torch
+openai-whisper
+gradio
+transformers
+diffusers
+accelerate
+safetensors
+Pillow
+moviepy<2
